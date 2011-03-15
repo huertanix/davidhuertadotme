@@ -19,7 +19,7 @@
 		<?php include("navigation.php"); ?>
 		<aside id="verbageContainer" class="descriptionContainer" onload="setIosOverlay(this.id)">
 			<h2>code and electronics</h2>
-			<h3><a href="http://userscripts.org/scripts/show/97717" target="_new">EightSixTwo</a></h3>
+			<h3><a href="http://userscripts.org/scripts/show/97717" target="_new">EightSixTwo (2011)</a></h3>
 			<p>A Greasemonkey userscript for distraction affliction correction. Adds a 30 second delay to the display of any web page you open in your browser, as per the <a href="http://blog.xkcd.com/2011/02/18/distraction-affliction-correction-extensio/" target="_new">beckoning of Randal Munroe</a> of <a href="http://www.xkcd.com" target="_new">xkcd</a> fame.</p>
 			<h3><a href="http://www.heatsynclabs.org/wiki/Loldialer" target="_new">loldialer (2010)</a></h3>
 			<p>Programmed Ruby script and Arduino microcontroller to create a phone-booth-ish interface to an easy, push-button system to prank call people with a variety of troll-tastic sound clips, including <a href="http://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_new">this one</a>.</p>
