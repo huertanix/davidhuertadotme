@@ -19,6 +19,12 @@
 		<?php include("navigation.php"); ?>
 		<aside id="verbageContainer" class="descriptionContainer">
 			<h2>speaking experience</h2>
+			<h3>Hackerspaces as Innovation Incubators, ABLEconf; Tempe, Arizona - (Apr 2011)</h3>
+			<p>Discussed hackerspaces as ideal environments for innovation due to being less restrictive than formal research institutions</p>
+			<ul>
+				<li><a href="presentations/hackerspaces_ableconf.pdf">Slides (PDF)</a></li>
+				<li>Video (Coming Soon)</li>
+			</ul>
 			<h3>loldialer, HeatSync Labs; Chandler, Arizona - (Nov 2010)</h3>
 			<p>Discussed the use of Arduino, Ruby, and Twilio for trolling applications</p>
 			<ul>
