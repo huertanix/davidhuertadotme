@@ -2,9 +2,10 @@
 <html>
 <!--
 	davidhuerta.me
-	shit that will make me a statue someday
+	but i don't wanna be a statue!
 	webmaster david{at}hayst.ac
 	http://www.davidhuerta.me
+	copyright (c) 2011 David Huerta. Distributed under the CDL license: http://supertunaman.com/cdl/
 -->
 <head>
 	<title>davidhuerta.me</title>
