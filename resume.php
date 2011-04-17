@@ -42,10 +42,10 @@
 			<h3>Tier 1 Technician, IPower; Phoenix, Arizona - (2004-2005)</h3>
 			<ul>
 				<li>Provided phone-based technical assistance to an international client&egrave;le</li>
-				<li>Solved and assisted website configuration issues in a BAMP environment (FreeBSD, Apache, MySQL, PHP)</li>
+				<li>Solved and assisted website configuration issues in a BAMP environment (BSD, Apache, MySQL, PHP)</li>
 			</ul>
 			<h2>tl;dr</h2>
-			<p>I've been creating things from the web since 1999, when I predicted that the future web would be access in mobile devices <strike>and written in WML decks</strike>.  If you want to put stuff on the web, I have skills and experience to make it happen.</p>
+			<p>I've been creating things from the web since 1999, when I predicted that the future web would be accessed in mobile devices <strike>and written in WML decks</strike>.  If you want to put stuff on the web, I have skills and experience to make it happen.</p>
 		</aside>
 		<script type="text/javascript">
 			setIosOverlay('verbageContainer');

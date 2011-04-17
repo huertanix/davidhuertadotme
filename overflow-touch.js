@@ -6,8 +6,9 @@
 function setIosOverlay(element_id)
 {
 	var is_ios = (navigator.userAgent.toLowerCase().indexOf('iphone') != -1);
+	var previously_displayed = window.localStorage.getItem("protip_displayed");
 
-	if (is_ios)
+	if (is_ios && previously_displayed != 'true') // local storage vals are strings, it seems...
 	{
 		var overflow_element = document.getElementById(element_id);
 		var overflow_element_max_height = window.getComputedStyle(overflow_element,null).getPropertyValue('max-height');
@@ -48,6 +49,9 @@ function setIosOverlay(element_id)
 			protip.setAttribute('onclick', 'this.style.display = \'none\';');
 
 			overflow_element.appendChild(protip);
+			
+			// Record the fact it was displayed so it doesn't display on the site again
+			localStorage.setItem("protip_displayed", true);
 		}
 	}
 }
