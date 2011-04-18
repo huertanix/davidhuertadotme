@@ -136,6 +136,29 @@ header h1 a
 	padding:2px;
 }
 
+.currentStatuses
+{
+	font-size:14px;
+	/*background-color:#000;*/
+	color:#FFF;
+	margin-top:20px;
+	/*float:right;*/
+	width:320px;
+	white-space:wrap;
+	/*height:auto;
+	max-height:490px;*/
+	/*padding:10px 10px 0px 10px;*/
+	text-align:left;
+	overflow-x:none;
+	overflow-y:auto;
+	/*background: rgba(0, 0, 0, 0.75);*/
+}
+
+.currentStatuses a 
+{
+	font-size:14px;
+}
+
 .propsContainer
 {
 	position:absolute;
