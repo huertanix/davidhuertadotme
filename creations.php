@@ -35,7 +35,7 @@
 			
 			<h2>design</h2>
 			<h3>This HTML5 Website</h3>
-			<p>YO DAWG, I heard you like davidhuerta.me, so we put some davidhuerta.me in davidhuerta.me so you can read about David while you read about David.</p>
+			<p>YO DAWG, I heard you like davidhuerta.me, so we put some davidhuerta.me in davidhuerta.me so you can read about David while you read about David.  <a href="https://github.com/huertanix/davidhuertadotme" target="_new">Source code</a> available on Github.</p>
 			<h3>HeatSync Labs Laser Cutter Fundraiser Reward Plaque (2010)</h3>
 			<section class="imageContainer">
 				<a href="http://www.flickr.com/photos/25968780@N03/5256517805/" target="_new"><img src="images/hackerspace_plaque.jpg" alt="Plaque photo" /></a>
