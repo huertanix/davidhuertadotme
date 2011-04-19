@@ -1,3 +1,21 @@
+<script type="text/javascript">
+	window.setLatestBlagPost = function(tumblr_json) {
+		var title = 'Derp';
+		
+		// Grab latest blag post headline
+		if (tumblr_json['posts'][0]['link-text'])
+		{
+			title = tumblr_json['posts'][0]['link-text'];
+		} 
+		else if (tumblr_json['posts'][0]['regular-title'])
+		{
+			title = tumblr_json['posts'][0]['regular-title'];
+		}
+		
+    	document.getElementById('blagLink').innerHTML = '<a href="' + tumblr_json['posts'][0]['url-with-slug'] + '">&nbsp;' + title +'&nbsp;</a>';
+	}
+</script>
+
 <nav class="mainNavContainer">
 	<a href="volunteerism.php">&nbsp;david volunteers&nbsp;</a>
 	<br />
@@ -15,22 +33,11 @@
 	<br />
 	<div class="currentStatuses">
 		<b>blag.dh:</b>
-		<script type="text/javascript">
-			// Check for tumblebeasts
-			if (tumblr_api_read)
-			{		
-	    		// Grab latest blag post headline
-	    		document.write('<a href="' + tumblr_api_read['posts'][0]['url-with-slug'] + '">&nbsp;' 
-					+ tumblr_api_read['posts'][0]['link-text'] +'&nbsp;</a>');
-			}
-			else
-			{
-				document.write('brb tumblebeasts');
-			}
-		</script>
-		<noscript>
-			<a href="http://huertanix.tumblr.com/">Visit Blag.dh</a>
-		</noscript>
+		<span id="blagLink">
+			<noscript>
+				<a href="http://huertanix.tumblr.com/">Visit Blag.dh</a>
+			</noscript>
+		</span>
 		<!-- TODO: Redo this in PHP for Lynx users...-->
 	</div>
 </nav>

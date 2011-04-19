@@ -15,7 +15,6 @@
 	<link rel="StyleSheet" href="default.css" type="text/css" />
 	<link rel="StyleSheet" href="overflow-touch.css" type="text/css" />
 	<script type="text/javascript" src="overflow-touch.js"></script>
-	<script type="text/javascript" src="http://huertanix.tumblr.com/api/read/json?num=1"></script>
 </head>
 <body>
 	<?php include("header.php"); ?>

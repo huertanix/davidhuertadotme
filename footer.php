@@ -14,3 +14,4 @@
 		<a href="http://www.last.fm/user/huertanix">last.fm</a>
 	</section>
 </footer>
+<script type="text/javascript" src="http://huertanix.tumblr.com/api/read/json?num=1&amp;callback=setLatestBlagPost"></script>
