@@ -16,9 +16,9 @@
 </head>
 <body>
 	<?php include("header.php"); ?>
-	<section class="contentContainer">
+	<div class="contentContainer">
 		<?php include("navigation.php"); ?>
-		<aside id="verbageContainer" class="descriptionContainer">
+		<article id="verbageContainer" class="descriptionContainer">
 			<h2>speaking experience</h2>
 			<h3>Hackerspaces as Innovation Incubators, ABLEconf; Tempe, Arizona - (Apr 2011)</h3>
 			<p>Discussed hackerspaces as ideal environments for innovation due to being less restrictive than formal research institutions</p>
@@ -57,12 +57,12 @@
 			<ul>
 				<li><a href="presentations/gp2x_ableconf.pdf">Slides (PDF)</a></li>
 			</ul>
-		</aside>
+		</article>
 		<script type="text/javascript">
 			setIosOverlay('verbageContainer');
 		</script>
 		<?php include("props.php"); ?>
-	</section>
+	</div>
 	<?php include("footer.php"); ?>
 	<?php include("woopra.php"); ?>
 </body>

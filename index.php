@@ -18,17 +18,17 @@
 </head>
 <body>
 	<?php include("header.php"); ?>
-	<section class="contentContainer">
+	<div class="contentContainer">
 		<?php include("navigation.php"); ?>
-		<aside id="verbageContainer" class="descriptionContainer">
+		<article id="verbageContainer" class="descriptionContainer">
 			<h2>about</h2>
 			<p>I'm David, a twentysomething year old software engineer living in Tempe (not Phoenix) and founder of the <a href="http://www.hayst.ac" target="_new">Hayst.ac</a>, which I started because <a href="http://knowyourmeme.com/memes/xzibit-yo-dawg" target="_new">YO DAWG</a>, I heard you like web searches, so we put some web searches in your web searches so you can Google while you Google!  Aside from abusing search engines, I enjoy good film, interesting conversation, funny hats, exotic foods and caffeinated drinks (like <a href="http://www.cartelcoffeelab.com" target="_new">coffee</a>).</p>
 			<p>I can usually be found at <a href="http://www.heatsynclabs.org" target="_new">HeatSync Labs</a>, your friendly neighborhood hackerspace.  Stop by and say Hi, if you come in peace.</p>
 			<h2>is that a bridge?</h2>
 			<p>Indeed it is; San Francisco may have the Golden Gate and New York may have the Brooklyn Bridge, but we have Soleri Bridge. <a href="http://www.flickr.com/photos/25968780@N03/5318500635/" target="_new">Photo by me</a> (<a href="http://creativecommons.org/licenses/by-nc/2.0/" target="_new">CC-BY-NC 2.0</a>).</p>
-		</aside>
+		</article>
 		<?php include("props.php"); ?>
-	</section>
+	</div>
 	<?php include("footer.php"); ?>
 	<?php include("woopra.php"); ?>
 </body>

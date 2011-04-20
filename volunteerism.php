@@ -16,9 +16,9 @@
 </head>
 <body>
 	<?php include("header.php"); ?>
-	<section class="contentContainer">
+	<div class="contentContainer">
 		<?php include("navigation.php"); ?>
-		<aside id="verbageContainer" class="descriptionContainer">
+		<article id="verbageContainer" class="descriptionContainer">
 			<h2>volunteer experience</h2>
 			<h3>Editor, HeatSync Labs; Chandler, Arizona - (2009-Present)</h3>
 			<ul>
@@ -47,12 +47,12 @@
 			</ul>
 			<!--<h2>tl;dr</h2>
 			<p>I am an active member of many geek circles and am almost <a href="http://scottpilgrim.wikia.com/wiki/Michael_Comeau" target="_new">that guy from Scott Pilgrim who knows everyone</a>.</p>-->
-		</aside>
+		</article>
 		<script type="text/javascript">
 			setIosOverlay('verbageContainer');
 		</script>
 		<?php include("props.php"); ?>
-	</section>
+	</div>
 	<?php include("footer.php"); ?>
 	<?php include("woopra.php"); ?>
 </body>

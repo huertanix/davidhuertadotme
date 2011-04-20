@@ -16,9 +16,9 @@
 </head>
 <body>
 	<?php include("header.php"); ?>
-	<section class="contentContainer">
+	<div class="contentContainer">
 		<?php include("navigation.php"); ?>
-		<aside id="verbageContainer" class="descriptionContainer">
+		<article id="verbageContainer" class="descriptionContainer">
 			<h2>work experience</h2>
 			<h3>Programmer-Analyst, U-Haul; Phoenix, Arizona - (2008-2011)</h3>
 			<ul>
@@ -46,12 +46,12 @@
 			</ul>
 			<h2>tl;dr</h2>
 			<p>I've been creating things from the web since 1999, when I predicted that the future web would be accessed in mobile devices <strike>and written in WML decks</strike>.  If you want to put stuff on the web, I have skills and experience to make it happen.</p>
-		</aside>
+		</article>
 		<script type="text/javascript">
 			setIosOverlay('verbageContainer');
 		</script>
 		<?php include("props.php"); ?>
-	</section>
+	</div>
 	<?php include("footer.php"); ?>
 	<?php include("woopra.php"); ?>
 </body>

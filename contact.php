@@ -16,9 +16,9 @@
 </head>
 <body>
 	<?php include("header.php"); ?>
-	<section class="contentContainer">
+	<div class="contentContainer">
 		<?php include("navigation.php"); ?>
-		<aside id="verbageContainer" class="descriptionContainer">
+		<article id="verbageContainer" class="descriptionContainer">
 			<h2>contact david</h2>
 			<p>Looking for a speaker to discuss search privacy/hacker spaces/tumblr memes at your next conference, camp, or wedding?  Are you working on something really cool and want my involvement somehow?  Contact me with the form below:</p>
 			<form id="frmContactDavid" method="post" action="dhmailer.php">
@@ -41,12 +41,12 @@
 				<input id="btnContactSubmit" type="submit" value="Send" class="fancyButton" />
 				<br />
 			</form>
-		</aside>
+		</article>
 		<script type="text/javascript">
 			setIosOverlay('verbageContainer');
 		</script>
 		<?php include("props.php"); ?>
-	</section>
+	</div>
 	<?php include("footer.php"); ?>
 	<?php include("woopra.php"); ?>
 </body>

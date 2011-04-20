@@ -14,7 +14,7 @@
 </head>
 	<body>
 		<?php include("header.php"); ?>
-		<section class="contentContainer">
+		<div class="contentContainer">
 <?php
 	if (isset($_POST['txtContactName'])
 		&& isset($_POST['txtContactEmail'])
@@ -49,10 +49,10 @@
 			// gogogo
 			@mail($TO_ADDRESS, $subject, $sanitizedMessage, $headers);
 ?>
-			<section class="grandNotification">
+			<div class="grandNotification">
 				<h1>Message delivered!</h1>
 				<p>Redirecting to main page...</p>
-			</section>
+			</div>
 			<script type="text/javascript">
 				setTimeout('window.location = "index.php"', 3000);
 			</script>
@@ -60,7 +60,7 @@
 		}
 		else
 		{
-			echo '<section class="grandFailNotification"><h1>You done goofed, kid.</h1>';
+			echo '<div class="grandFailNotification"><h1>You done goofed, kid.</h1>';
 			
 			// As much as I rant about ASP.NET, ValidationSummary was quite handy...			
 			$failList = '<p>';
@@ -78,7 +78,7 @@
 				$failList .= 'E-mail address is invalid. ';
 			
 			//$failList .= '</p>';
-			$failList .= '<br />Please go <a href="#" onclick="history.go(-1);return false;">back</a> and try again.</p></section>';
+			$failList .= '<br />Please go <a href="#" onclick="history.go(-1);return false;">back</a> and try again.</p></div>';
 			
 			echo $failList;
 ?>
@@ -91,7 +91,7 @@
 		}
 	}
 ?>
-		</section>
+		</div>
 		<?php include("footer.php"); ?>
 		<?php include("woopra.php"); ?>
 	</body>

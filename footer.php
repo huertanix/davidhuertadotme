@@ -1,5 +1,5 @@
 <footer class="networksContainer">
-	<section>
+	<div>
 		as seen on: 
 		<a href="http://twitter.com/huertanix">twitter</a> &bull; 
 		<a href="https://joindiaspora.com/people/36446">diaspora</a> &bull;
@@ -12,6 +12,6 @@
 		<a href="http://www.dopplr.com/traveller/huertanix">dopplr</a> &bull; 
 		<a href="http://www.flickr.com/people/25968780@N03/">flickr</a> &bull; 
 		<a href="http://www.last.fm/user/huertanix">last.fm</a>
-	</section>
+	</div>
 </footer>
 <script type="text/javascript" src="http://huertanix.tumblr.com/api/read/json?num=1&amp;callback=setLatestBlagPost"></script>

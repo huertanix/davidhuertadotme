@@ -143,14 +143,14 @@ header h1 a
 	color:#FFF;
 	margin-top:20px;
 	/*float:right;*/
-	width:320px;
+	width:300px;
 	white-space:wrap;
-	/*height:auto;
-	max-height:490px;*/
+	height:auto;
+	max-height:80px;
 	/*padding:10px 10px 0px 10px;*/
 	text-align:left;
 	overflow-x:none;
-	overflow-y:auto;
+	overflow-y:none;
 	/*background: rgba(0, 0, 0, 0.75);*/
 }
 
