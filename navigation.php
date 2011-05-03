@@ -11,6 +11,10 @@
 		{
 			title = tumblr_json['posts'][0]['regular-title'];
 		}
+		else if (tumblr_json['posts'][0]['slug'])
+		{
+			title = tumblr_json['posts'][0]['slug'];
+		}
 		
     	document.getElementById('blagLink').innerHTML = '<a href="' + tumblr_json['posts'][0]['url-with-slug'] + '">&nbsp;' + title +'&nbsp;</a>';
 	}
