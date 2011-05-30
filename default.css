@@ -1,242 +1,242 @@
 /*
-	copyright (c) 2011 David Huerta. Distributed under the CDL license: http://supertunaman.com/cdl/
+    copyright (c) 2011 David Huerta. Distributed under the CDL license: http://supertunaman.com/cdl/
 */
 
 body 
 {
-	background-color:#AF9879;
-	/*background-image: -moz-linear-gradient(bottom, #FFF, #EEE);
-	background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #FFF),color-stop(1, #EEE));*/
-	font-family:Helvetica, Arial, Sans;
-	text-align:center;
-	margin: 0 auto;
-	width:800px;
-	height:100%;
+    background-color:#AF9879;
+    /*background-image: -moz-linear-gradient(bottom, #FFF, #EEE);
+    background-image: -webkit-gradient(linear,left bottom,left top,color-stop(0, #FFF),color-stop(1, #EEE));*/
+    font-family:Helvetica, Arial, Sans;
+    text-align:center;
+    margin: 0 auto;
+    width:800px;
+    height:100%;
 }
 
 a img
 {
-	border-style:none;
+    border-style:none;
 }
 
 
 header
 {
-	position:absolute;
-	top:12px;
-	text-align:right;
-	width:800px;
-	height:58px;
-	display:block;
-	/*border-style:dashed;
-	border-width:1px;
-	border-color:#F00;*/
+    position:absolute;
+    top:12px;
+    text-align:right;
+    width:800px;
+    height:58px;
+    display:block;
+    /*border-style:dashed;
+    border-width:1px;
+    border-color:#F00;*/
 }
 
 header h1
 {
-	margin:0px;
-	font-size:58px;
-	color:#FFF;
-	line-height:70px;
-	/*border-style:dotted;
-	border-width:1px;
-	border-color:#F00;*/
+    margin:0px;
+    font-size:58px;
+    color:#FFF;
+    line-height:70px;
+    /*border-style:dotted;
+    border-width:1px;
+    border-color:#F00;*/
 }
 
 header h1 a
 {
-	color:#FFF;
-	text-decoration:none;
+    color:#FFF;
+    text-decoration:none;
 }
 
 .contentContainer
 {
-	background-image:url('images/davidhuerta_bg.jpg');
-	width:800px;
-	height:535px;
-	display:block;
-	margin-top:60px;
-	-moz-box-shadow: 0 0 5px #000;
-	-webkit-box-shadow: 0 0 5px #000;
-	box-shadow: 0 0 5px #000;
+    background-image:url('images/davidhuerta_bg.jpg');
+    width:800px;
+    height:535px;
+    display:block;
+    margin-top:60px;
+    -moz-box-shadow: 0 0 5px #000;
+    -webkit-box-shadow: 0 0 5px #000;
+    box-shadow: 0 0 5px #000;
 }
 
 .descriptionContainer
 {
-	background-color:#000;
-	color:#FFF;
-	margin-top:20px;
-	margin-right:20px;
-	float:right;
-	width:420px;
-	height:auto;
-	max-height:490px;
-	padding:10px 10px 0px 10px;
-	text-align:left;
-	overflow-x:none;
-	overflow-y:auto;
-	/*opacity:0.8;filter:alpha(opacity=80);*/
-	background: rgba(0, 0, 0, 0.75);
-	
+    background-color:#000;
+    color:#FFF;
+    margin-top:20px;
+    margin-right:20px;
+    float:right;
+    width:420px;
+    height:auto;
+    max-height:490px;
+    padding:10px 10px 0px 10px;
+    text-align:left;
+    overflow-x:none;
+    overflow-y:auto;
+    /*opacity:0.8;filter:alpha(opacity=80);*/
+    background: rgba(0, 0, 0, 0.75);
+    
 }
 
 .descriptionContainer h2
 {
-	margin:0px 0px 10px 0px;
-	padding:0px;
-	font-size:20px;
+    margin:0px 0px 10px 0px;
+    padding:0px;
+    font-size:20px;
 }
 
 .descriptionContainer h3
 {
-	margin:0px 0px 10px 0px;
-	padding:0px;
-	font-size:14px;
+    margin:0px 0px 10px 0px;
+    padding:0px;
+    font-size:14px;
 }
 
 .descriptionContainer p, li
 {
-	margin:0px 0px 10px 0px;
-	padding:0px;
-	font-size:14px;
-	color:#808080;
+    margin:0px 0px 10px 0px;
+    padding:0px;
+    font-size:14px;
+    color:#808080;
 }
 
 .descriptionContainer a
 {
-	color:#FFF;
-	/*text-decoration:none;*/
+    color:#FFF;
+    /*text-decoration:none;*/
 }
 
 .descriptionContainer .imageContainer
 {
-	display:block;
-	text-align:center;
-	margin-bottom:20px;
+    display:block;
+    text-align:center;
+    margin-bottom:20px;
 }
 
 .mainNavContainer
 {
-	margin-top:22px; /* adjust for padding*/
-	margin-left:20px;
-	float:left;
-	text-align:left;
-	width:300px;
-	height:auto;
+    margin-top:22px; /* adjust for padding*/
+    margin-left:20px;
+    float:left;
+    text-align:left;
+    width:300px;
+    height:auto;
 }
 
 .mainNavContainer a
 {
-	color:#FFF;
-	background-color:#000;
-	font-size:36px;
-	text-decoration:none;
-	/*margin-bottom:32px;*/
-	padding:2px;
+    color:#FFF;
+    background-color:#000;
+    font-size:36px;
+    text-decoration:none;
+    /*margin-bottom:32px;*/
+    padding:2px;
 }
 
 .currentStatuses
 {
-	font-size:14px;
-	/*background-color:#000;*/
-	color:#FFF;
-	margin-top:20px;
-	/*float:right;*/
-	width:300px;
-	white-space:wrap;
-	height:auto;
-	max-height:80px;
-	/*padding:10px 10px 0px 10px;*/
-	text-align:left;
-	overflow-x:none;
-	overflow-y:none;
-	/*background: rgba(0, 0, 0, 0.75);*/
+    font-size:14px;
+    /*background-color:#000;*/
+    color:#FFF;
+    margin-top:20px;
+    /*float:right;*/
+    width:300px;
+    white-space:wrap;
+    height:auto;
+    max-height:80px;
+    /*padding:10px 10px 0px 10px;*/
+    text-align:left;
+    overflow-x:none;
+    overflow-y:none;
+    /*background: rgba(0, 0, 0, 0.75);*/
 }
 
 .currentStatuses a 
 {
-	font-size:14px;
+    font-size:14px;
 }
 
 .propsContainer
 {
-	position:absolute;
-	top:500px;
-	display:block;
-	text-align:left;
-	float:left;
-	width:200px;
-	height:auto;
-	/*padding-top:108px;*/
-	margin-left:8px;
+    position:absolute;
+    top:500px;
+    display:block;
+    text-align:left;
+    float:left;
+    width:200px;
+    height:auto;
+    /*padding-top:108px;*/
+    margin-left:8px;
 }
 
 .networksContainer
 {
-	margin-top:0px;
-	margin-bottom:20px;
-	background-color:#000;
-	color:#808080;
-	font-size:14px;
-	width:760px;
-	display:block;
-	padding:20px;
-	-moz-box-shadow: 0 0 5px #000;
-	-webkit-box-shadow: 0 0 5px #000;
-	box-shadow: 0 0 5px #000;
+    margin-top:0px;
+    margin-bottom:20px;
+    background-color:#000;
+    color:#808080;
+    font-size:14px;
+    width:760px;
+    display:block;
+    padding:20px;
+    -moz-box-shadow: 0 0 5px #000;
+    -webkit-box-shadow: 0 0 5px #000;
+    box-shadow: 0 0 5px #000;
 }
 
 .networksContainer a
 {
-	color:#FFF;
-	text-decoration:none;
+    color:#FFF;
+    text-decoration:none;
 }
 
 .fancyTextBox
 {
-	font-size:16px;
-	border:1px solid #FFF;
-	width: 350px;
-	color:#333;
-	padding:4px;
-	margin-bottom:16px;
+    font-size:16px;
+    border:1px solid #FFF;
+    width: 350px;
+    color:#333;
+    padding:4px;
+    margin-bottom:16px;
 }
 
 .fancyButton
 {
-	font-size:16px;
-	padding:4px;
-	margin-bottom:16px;
+    font-size:16px;
+    padding:4px;
+    margin-bottom:16px;
 }
 
 .grandNotification
 {
-	float:right;
-	width:100%;
-	margin-top:210px;
-	background-color:#000;
-	color:#FFF;
-	background: rgba(0, 0, 0, 0.75);
+    float:right;
+    width:100%;
+    margin-top:210px;
+    background-color:#000;
+    color:#FFF;
+    background: rgba(0, 0, 0, 0.75);
 }
 
 .grandFailNotification
 {
-	float:right;
-	width:100%;
-	margin-top:210px;
-	background-color:#F00;
-	color:#FFF;
-	background: rgba(255, 0, 0, 0.75);
+    float:right;
+    width:100%;
+    margin-top:210px;
+    background-color:#F00;
+    color:#FFF;
+    background: rgba(255, 0, 0, 0.75);
 }
 
 .grandFailNotification .error
 {
-	font-size:16px;
-	color:#FFF;
+    font-size:16px;
+    color:#FFF;
 }
 
 .grandNotification, .grandFailNotification a
 {
-	color:#FFF;
+    color:#FFF;
 }
