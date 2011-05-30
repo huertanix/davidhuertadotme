@@ -1,6 +1,6 @@
 <script type="text/javascript">
     window.setLatestBlagPost = function(tumblr_json) {
-        var title = 'Derp';
+        var title = 'Untitled';
         
         // Grab latest blag post headline
         if (tumblr_json['posts'][0]['link-text'])
@@ -14,6 +14,10 @@
         else if (tumblr_json['posts'][0]['slug'])
         {
             title = tumblr_json['posts'][0]['slug'];
+        }
+        else
+        {
+            title += ' ' + tumblr_json['posts'][0]['type'];
         }
         
         document.getElementById('blagLink').innerHTML = '<a href="' + tumblr_json['posts'][0]['url-with-slug'] + '">&nbsp;' + title +'&nbsp;</a>';
