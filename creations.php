@@ -63,6 +63,10 @@
             <section class="imageContainer">
                 <img src="images/haystac_logo.jpg" alt="Formerly known as Haystack Project..." onclick="TINY.box.show({image:'images/haystac_logo_large.jpg',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
             </section>
+            <h3>Saguaro Airsoft Patches (2006)</h3>
+            <section class="imageContainer">
+                <img src="images/saguaro_patches.jpg" alt="UCP, MARPAT Woodland, MARPAT Desert" onclick="TINY.box.show({image:'images/saguaro_patches_large.jpg',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
+            </section>
             <script type="text/javascript">
                 setIosOverlay('verbageContainer');
             </script>
