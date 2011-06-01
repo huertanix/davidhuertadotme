@@ -13,6 +13,7 @@
     <link rel="StyleSheet" href="default.css" type="text/css" />
     <link rel="StyleSheet" href="overflow-touch.css" type="text/css" />
     <script type="text/javascript" src="overflow-touch.js"></script>
+    <script type="text/javascript" src="tinybox.js"></script>
 </head>
 <body>
     <?php include("header.php"); ?>
@@ -38,23 +39,29 @@
             <p>YO DAWG, I heard you like davidhuerta.me, so we put some davidhuerta.me in davidhuerta.me so you can read about David while you read about David.  <a href="https://github.com/huertanix/davidhuertadotme" target="_new">Source code</a> available on Github.</p>
             <h3>HeatSync Labs Laser Cutter Fundraiser Reward Plaque (2010)</h3>
             <section class="imageContainer">
-                <a href="http://www.flickr.com/photos/25968780@N03/5256517805/" target="_new"><img src="images/hackerspace_plaque.jpg" alt="Plaque photo" /></a>
+                <!--<a href="http://www.flickr.com/photos/25968780@N03/5256517805/" target="_new">-->
+                <img src="images/hackerspace_plaque.jpg" alt="Plaque photo" onclick="TINY.box.show({image:'images/hackerspace_plaque_large.jpg',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
+                <!--</a>-->
             </section>
             <h3>HeatSync Labs Business Cards, Sticker, and Button (2010)</h3>
             <section class="imageContainer">
-                <a href="http://www.flickr.com/photos/25968780@N03/5369349364/" target="_new"><img src="images/hsl_swag.jpg" alt="HeatSwag" /></a>
+                <!--<a href="http://www.flickr.com/photos/25968780@N03/5369349364/" target="_new">-->
+                <img src="images/hsl_swag.jpg" alt="HeatSwag" onclick="TINY.box.show({image:'images/hsl_swag_large.jpg',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
+                <!--</a>-->
             </section>
             <h3>DigiDesert Logo (2010)</h3>
             <section class="imageContainer">
-                <a href="http://huertanix.tumblr.com/post/364438993/a-logo-i-designed-for-digital-desert-colo-which" target="_new"><img src="images/digidesert_logo.png" alt="DigiDesert logo" /></a>
+                <img src="images/digidesert_logo.png" alt="DigiDesert logo" onclick="TINY.box.show({image:'images/digidesert_logo_large.png',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
             </section>
             <h3>ABLEconf T-shirt (2009)</h3>
             <section class="imageContainer">
-                <a href="http://www.flickr.com/photos/25968780@N03/4912213624/" target="_new"><img src="images/ableconf_shirt.jpg" alt="Its the one on the right..." /></a>
+                <!--<a href="http://www.flickr.com/photos/25968780@N03/4912213624/" target="_new">-->
+                <img src="images/ableconf_shirt.jpg" alt="Its the one on the right..." onclick="TINY.box.show({image:'images/ableconf_shirt_large.jpg',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
+                <!--</a>-->
             </section>
             <h3>Hayst.ac Logo (2008)</h3>
             <section class="imageContainer">
-                <a href="http://haystackproject.org/press.htm" target="_new"><img src="images/haystac_logo.jpg" alt="Formerly known as Haystack Project..." /></a>
+                <img src="images/haystac_logo.jpg" alt="Formerly known as Haystack Project..." onclick="TINY.box.show({image:'images/haystac_logo_large.jpg',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
             </section>
             <script type="text/javascript">
                 setIosOverlay('verbageContainer');
