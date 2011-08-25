@@ -20,11 +20,16 @@
         <?php include("navigation.php"); ?>
         <article id="verbageContainer" class="descriptionContainer">
             <h2>volunteer experience</h2>
-            <h3>Editor, HeatSync Labs; Chandler, Arizona - (2009-Present)</h3>
+            <!--<h3>Mentor, P2PU School of Webcraft; New York, New York - (2011 - Now)</h3>
+            <ul>
+                <li>Fed grapes into Britton's mouth #nohomo</li>
+            </ul>-->
+            <h3>Editor, HeatSync Labs; Chandler, Arizona - (2009-2011)</h3>
             <ul>
                 <li>Wrote bylaws/charter for the newly formed HeatSync Labs hackerspace</li>
                 <li>Wrote blog posts on upcoming HeatSync Labs events, news, and interviews with local makers, some of which have been syndicated by Make: blog and other online outlets</li>
                 <li>Visited other hackerspaces and hacker/maker events in outreach efforts to share ideas and experiences with the very new phenomenon of the modern hackerspace</li>
+                <li>Designed the layout of the commons area of the space in Mesa now known as "Kipp Hall" and solicited for and collected corporate donations to furnish it</li>
             </ul>
             <h3>Director of Marketing, ABLEconf; Tempe, Arizona - (2009)</h3>
             <ul>

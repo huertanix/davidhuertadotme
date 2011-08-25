@@ -20,6 +20,12 @@
         <?php include("navigation.php"); ?>
         <article id="verbageContainer" class="descriptionContainer">
             <h2>work experience</h2>
+            <h3>Developer, Brooklyn Museum; Brooklyn, New York (2011-Now)</h3>
+            <ul>
+              <li>Developed a PHP-based web application for aggregating and displaying data relating to a Lee Mingwei art exhibition using APIs from Flickr, Instagram, Twitter Search, and Twilio with internal moderation support.</li>
+              <li>Adjusted, tested, and shipped a native iPhone application to Apple and audited for Apple HIG compliance while optimizing our compatibility for iPad and Verizon iPhone users.</li>
+              <li>Created a replication script in Ruby to sync the video content of separate Youtube account, including a script for automating the process of enabling oauth access from one account to the other</li>
+            </ul>
             <h3>Programmer-Analyst, U-Haul; Phoenix, Arizona - (2008-2011)</h3>
             <ul>
                 <li>Enhanced the performance and scalability of an enterprise-level web-based CRM system used by over 9000 users across the US and Canada in English and French</li>
