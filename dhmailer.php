@@ -26,9 +26,9 @@
         $TO_ADDRESS = 'huertanix' . '@hayst.ac';
         
         // No need to escape for bobby tables, but we do need to think of the newlines
-        $sanitizedName = trim(htmlentities($_POST['txtContactName']));
+        $sanitizedName = stripslashes(trim(htmlentities($_POST['txtContactName'])));
         $sanitizedEmail = trim(htmlentities($_POST['txtContactEmail']));
-        $sanitizedMessage = trim(htmlentities($_POST['txtContactMessage']));
+        $sanitizedMessage = stripslashes(trim(htmlentities($_POST['txtContactMessage'])));
         $sanitizedMeatPopsicle = trim(htmlentities($_POST['txtContactMeatPopsicle']));
         
         $isHooman = $sanitizedMeatPopsicle == $ROBOT_CHECK;
