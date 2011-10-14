@@ -20,10 +20,10 @@
         <?php include("navigation.php"); ?>
         <article id="verbageContainer" class="descriptionContainer">
             <h2>volunteer experience</h2>
-            <!--<h3>Mentor, P2PU School of Webcraft; New York, New York - (2011 - Now)</h3>
+            <h3>Mentor, P2PU Mozilla School of Webcraft; New York, New York - (2011 - Now)</h3>
             <ul>
-                <li>Fed grapes into Britton's mouth #nohomo</li>
-            </ul>-->
+                <li>Helped noobs become leet masters of HTML and general cybersaucery</li>
+            </ul>
             <h3>Editor, HeatSync Labs; Chandler, Arizona - (2009-2011)</h3>
             <ul>
                 <li>Wrote bylaws/charter for the newly formed HeatSync Labs hackerspace</li>

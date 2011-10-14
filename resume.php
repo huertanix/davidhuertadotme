@@ -22,8 +22,9 @@
             <h2>work experience</h2>
             <h3>Developer, Brooklyn Museum; Brooklyn, New York (2011-Now)</h3>
             <ul>
-              <li>Developed a PHP-based web application for aggregating and displaying data relating to a Lee Mingwei art exhibition using APIs from Flickr, Instagram, Twitter Search, and Twilio with internal moderation support.</li>
-              <li>Adjusted, tested, and shipped a native iPhone application to Apple and audited for Apple HIG compliance while optimizing our compatibility for iPad and Verizon iPhone users.</li>
+              <li>Developed an HTML5/CSS3 kiosk application for displaying rich data for Judy Chicago's <i>The Dinner Party</i>, the centerpiece of the Elizabeth A. Sackler Center for Feminist Art</li>
+              <li>Developed a PHP-based web application for aggregating and displaying data relating to a Lee Mingwei art exhibition using APIs from Flickr, Instagram, Twitter Search, and Twilio with internal moderation support</li>
+              <li>Adjusted, tested, and shipped a native iPhone application to Apple and audited for Apple HIG compliance while optimizing our compatibility for iPad and Verizon iPhone users</li>
               <li>Created a replication script in Ruby to sync the video content of separate Youtube account, including a script for automating the process of enabling oauth access from one account to the other</li>
             </ul>
             <h3>Programmer-Analyst, U-Haul; Phoenix, Arizona - (2008-2011)</h3>
