@@ -20,10 +20,12 @@
         <?php include("navigation.php"); ?>
         <article id="verbageContainer" class="descriptionContainer">
             <h2>volunteer experience</h2>
-            <h3>Mentor, P2PU Mozilla School of Webcraft; New York, New York - (2011 - Now)</h3>
-            <ul>
-                <li>Helped noobs become leet masters of HTML and general cybersaucery</li>
-            </ul>
+			<h3>Co-organizer, Art Hack Day; New York, New York (2011 - Now)</h3>
+			<ul>
+				<li>Consulted with network experts to design and implement a fast, reliable network for the 319 Scholes gallery space</li>
+				<li>Negotiated with sponsors to help finance or otherwise support the event and prove their coolness to the NYC art community</li>
+				<li>Drawing owls</li>
+			</ul>
             <h3>Editor, HeatSync Labs; Chandler, Arizona - (2009-2011)</h3>
             <ul>
                 <li>Wrote bylaws/charter for the newly formed HeatSync Labs hackerspace</li>

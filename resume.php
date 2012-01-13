@@ -22,7 +22,13 @@
             <h2>work experience</h2>
             <h3>Developer, Brooklyn Museum; Brooklyn, New York (2011-Now)</h3>
             <ul>
-              <li>Developed an HTML5/CSS3 kiosk application for displaying rich data for Judy Chicago's <i>The Dinner Party</i>, the centerpiece of the Elizabeth A. Sackler Center for Feminist Art</li>
+							<li>
+								Created a system to calculate the scale of artwork in the museum's online art colleciton  and illustrate it using Brooklyn-centric elements to compare size to.
+							</li>
+			  			<li>
+			  				Modernized brooklynmuseum.org's homepage to display events, news, and information in a compelling and intuitive design using Mootools and modern, cross-browser CSS.
+			  			</li>
+              <li>Developed web-based kiosk applications for browsing data for Judy Chicago's <i>The Dinner Party</i>, the centerpiece of the Elizabeth A. Sackler Center for Feminist Art, searching for art information in the LUCE center for American art, as well as a user friendly application to sign up for museum news.</li>
               <li>Developed a PHP-based web application for aggregating and displaying data relating to a Lee Mingwei art exhibition using APIs from Flickr, Instagram, Twitter Search, and Twilio with internal moderation support</li>
               <li>Adjusted, tested, and shipped a native iPhone application to Apple and audited for Apple HIG compliance while optimizing our compatibility for iPad and Verizon iPhone users</li>
               <li>Created a replication script in Ruby to sync the video content of separate Youtube account, including a script for automating the process of enabling oauth access from one account to the other</li>

@@ -20,17 +20,23 @@
         <?php include("navigation.php"); ?>
         <article id="verbageContainer" class="descriptionContainer">
             <h2>speaking experience</h2>
+			<h3>Art Hacks Everywhere, 28C3; Berlin, Germany - (Dec 2011)</h3>
+			<p>Lightning talk on Art Hack Day and why it's totally rad</p>
+			<ul>
+				<li><a href="presentations/arthackseverywhere_28c3.pdf">Slides (PDF)</a></li>
+				<li><a href="http://www.youtube.com/watch?v=QCjFSDir6Xg">Video</a></li>
+			</ul>
             <h3>Hacking Hardware: Fun with Twilio and Arduino, Twilio Conference; San Francisco, California - (Sep 2011)</h3>
             <p>Demonstrated the use of Twilio with a DIY Ardunio-based hardware interface</p>
             <ul>
                 <li><a href="presentations/arduino_twiliocon.pdf">Slides (PDF)</a></li>
-                <li>Video (Coming Soon)</li>
+                <li><a href="http://vimeo.com/31400665">Video</a></li>
             </ul>
             <h3>Hackerspaces as Innovation Incubators, ABLEconf; Tempe, Arizona - (Apr 2011)</h3>
             <p>Discussed hackerspaces as ideal environments for innovation due to being less restrictive than formal research institutions</p>
             <ul>
                 <li><a href="presentations/hackerspaces_ableconf.pdf">Slides (PDF)</a></li>
-                <li>Video (Coming Soon-ish)</li>
+                <li>Video (Coming not very soon or quickly it seems)</li>
             </ul>
             <h3>loldialer, HeatSync Labs; Chandler, Arizona - (Nov 2010)</h3>
             <p>Discussed the use of Arduino, Ruby, and Twilio for trolling applications</p>
