@@ -23,7 +23,7 @@
             <h3>Developer, Brooklyn Museum; Brooklyn, New York (2011-Now)</h3>
             <ul>
 							<li>
-								Created a system to calculate the scale of artwork in the museum's online art colleciton  and illustrate it using Brooklyn-centric elements to compare size to.
+								Created a system to calculate the scale of artwork in the museum's online art collection  and illustrate it using Brooklyn-centric elements to compare size to.
 							</li>
 			  			<li>
 			  				Modernized brooklynmuseum.org's homepage to display events, news, and information in a compelling and intuitive design using Mootools and modern, cross-browser CSS.
