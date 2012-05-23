@@ -6,7 +6,6 @@
         <a href="http://identi.ca/huertanix">identi.ca</a> &bull; 
         <a href="http://www.quora.com/David-Huerta">quora</a> &bull; 
         <a href="http://huertanix.tumblr.com/">tumblr</a> &bull; 
-        <a href="http://www.reddit.com/user/huertanix/">reddit</a> &bull; 
         <a href="http://news.ycombinator.com/threads?id=huertanix">hacker news</a> &bull; 
         <a href="https://github.com/huertanix">github</a> &bull; 
         <a href="http://www.dopplr.com/traveller/huertanix">dopplr</a> &bull; 
