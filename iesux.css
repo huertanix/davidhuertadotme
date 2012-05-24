@@ -1,0 +1,102 @@
+/* Using class instead of element because IE8 hates kittens */
+.header {
+  position:absolute;
+  top:12px;
+  text-align:right;
+  width:800px;
+  height:58px;
+  display:block;
+}
+
+.header h1 {
+  margin:0px;
+  font-size:58px;
+  color:#FFF;
+  line-height:70px;
+}
+
+.header h1 a {
+  text-decoration:none;
+}
+
+.mainNavContainer {
+  margin-top:22px; /* adjust for padding*/
+  margin-left:20px;
+  float:left;
+  text-align:left;
+  width:300px;
+  height:auto;
+}
+
+.mainNavContainer a {
+  color:#FFF;
+  background-color:#000;
+  font-size:36px;
+  text-decoration:none;
+  padding:2px;
+}
+
+.descriptionContainer {
+  background-color:#000;
+  color:#FFF;
+  margin-top:20px;
+  margin-right:20px;
+  float:right;
+  width:420px;
+  height:auto;
+  max-height:490px;
+  padding:10px 10px 0px 10px;
+  text-align:left;
+  overflow-x:none;
+  overflow-y:auto;
+  /*opacity:0.8;filter:alpha(opacity=80);*/
+  background: rgba(0, 0, 0, 0.75);
+}
+
+.descriptionContainer h2 {
+  margin:0px 0px 10px 0px;
+  padding:0px;
+  font-size:20px;
+}
+
+.descriptionContainer h3 {
+  margin:0px 0px 10px 0px;
+  padding:0px;
+  font-size:14px;
+}
+
+.descriptionContainer p, li {
+  margin:0px 0px 10px 0px;
+  padding:0px;
+  font-size:14px;
+  color:#808080;
+}
+
+.descriptionContainer a {
+  color:#FFF;
+  /*text-decoration:none;*/
+}
+
+.descriptionContainer .imageContainer {
+  display:block;
+  text-align:center;
+  margin-bottom:20px;
+}
+
+.networksContainer {
+  margin-top:0px;
+  margin-bottom:20px;
+  background-color:#000;
+  color:#808080;
+  font-size:14px;
+  width:760px;
+  display:block;
+  padding:20px;
+  -moz-box-shadow: 0 0 5px #000;
+  -webkit-box-shadow: 0 0 5px #000;
+  box-shadow: 0 0 5px #000;
+}
+
+.networksContainer a {
+  text-decoration:none;
+}
