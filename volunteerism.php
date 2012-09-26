@@ -19,10 +19,8 @@
         <h2>volunteer experience</h2>
         <h3>Organizer, Tin Foil Hat RFID Challenge / Fashion Show (2012)</h3>
         <ul>
-          Organized and scheduled volunteers and resources for a contest where people make tin foil hats which can block RFID detection and look aesthetically creative at the Ninth Hackers on Planet Earth (HOPE) conference 
-        </ul>
-        <ul>
-          Set up and organized a pbworks wiki for this and other Alpha One Labs projects
+          <li>Organized and scheduled volunteers and resources for a contest where people make tin foil hats which can block RFID detection and look aesthetically creative at the Ninth Hackers on Planet Earth (HOPE) conference</li>
+          <li>Set up and organized a pbworks wiki for this and other Alpha One Labs projects</li>
         </ul>
         <h3>Co-organizer, Art Hack Day; New York, New York (2011 - Now)</h3>
         <ul>
