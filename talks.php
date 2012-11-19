@@ -20,12 +20,12 @@
         <h3>Fun with RFID and the Adafruit NFC Arduino Shield, Desert Code Camp; Chandler, Arizona - (Nov 2012)</h3>
         <p>Demonstrated impractical uses of RFID and NFC using the Adafruit NFC Arduino shield</p>
         <ul>
-          <li><a href="presentations/nfc_dcc12.pdf.pdf">Slides (PDF)</a></li>
+          <li><a href="presentations/nfc_dcc12.pdf">Slides (PDF)</a></li>
         </ul>
         <h3>Shortcodes: Beyond Broadcast Messaging, Twilio Conference; San Francisco, California - (Oct 2012)</h3>
         <p>Presented on the process of acquiring and building a complete working application around an SMS shortcode</p>
         <ul>
-          <li><a href="presentations/shortcodes_twiliocon.pdf.pdf">Slides (PDF)</a></li>
+          <li><a href="presentations/shortcodes_twiliocon.pdf">Slides (PDF)</a></li>
         </ul>
         <h3>Art Hacks Everywhere, 28C3; Berlin, Germany - (Dec 2011)</h3>
         <p>Lightning talk on Art Hack Day and why it's totally rad</p>
