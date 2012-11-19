@@ -17,6 +17,8 @@
     <article id="verbageContainer" onload="setIosOverlay(this.id)">
       <div class="descriptionContainer">
         <h2>code and electronics</h2>
+        <h3><a href="https://github.com/huertanix/txtvote">txtvote (2012)</a></h3>
+        <p>Twilio-powered text message voting application built on Ruby on Rails designed for use with SMS shortcodes.</p>
         <h3><a href="https://github.com/huertanix/supervillmin">Supervillmin (2012)</a></h3>
         <p>A supervillain-friendly port of Douglas Crockford's JSMin, using Ruby and heavy abuse of regular expressions.   Originally designed for replacing JSMin's use in <a href="https://crypto.cat">CryptoCat</a> during <a href="http://datatransparency.wsj.com/">Data Transparency Weekend</a>.</p>
         <h3><a href="https://github.com/huertanix/bot-ranch">Bot Ranch (2012)</a></h3>

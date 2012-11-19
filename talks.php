@@ -17,6 +17,16 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>speaking experience</h2>
+        <h3>Fun with RFID and the Adafruit NFC Arduino Shield, Desert Code Camp; Chandler, Arizona - (Nov 2012)</h3>
+        <p>Demonstrated impractical uses of RFID and NFC using the Adafruit NFC Arduino shield</p>
+        <ul>
+          <li><a href="presentations/nfc_dcc12.pdf.pdf">Slides (PDF)</a></li>
+        </ul>
+        <h3>Shortcodes: Beyond Broadcast Messaging, Twilio Conference; San Francisco, California - (Oct 2012)</h3>
+        <p>Presented on the process of acquiring and building a complete working application around an SMS shortcode</p>
+        <ul>
+          <li><a href="presentations/shortcodes_twiliocon.pdf.pdf">Slides (PDF)</a></li>
+        </ul>
         <h3>Art Hacks Everywhere, 28C3; Berlin, Germany - (Dec 2011)</h3>
         <p>Lightning talk on Art Hack Day and why it's totally rad</p>
         <ul>
@@ -61,7 +71,7 @@
         <ul>
           <li><a href="presentations/haystac_toorcamp.pdf">Slides (PDF)</a></li>
         </ul>
-        <h3>Introduction to the GP2X, ABLEconf; Tempe, Arizona - (Sep 2009)</h3>
+        <h3>Introduction to the GP2X, ABLEconf; Tempe, Arizona - (Sep 2008)</h3>
         <p>An overview of the GNU/Linux-powered GP2X portable gaming platform and various open source projects that have sprung up around it</p>
         <ul>
           <li><a href="presentations/gp2x_ableconf.pdf">Slides (PDF)</a></li>

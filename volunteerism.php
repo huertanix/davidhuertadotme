@@ -17,7 +17,12 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>volunteer experience</h2>
-        <h3>Organizer, Tin Foil Hat RFID Challenge / Fashion Show (2012)</h3>
+        <!--<h3>Co-organzier, Cyrptoparty NYC; New York, New York (2012)</h3>
+        <ul>
+          <li>Searched and scheduled venue optimized for accessibility and availability</li>
+          <li>Assisted non-engineers in the installation and configuration of cryptographic software</li>
+        </ul>-->
+        <h3>Organizer, Tin Foil Hat RFID Challenge / Fashion Show; New York, New York (2012)</h3>
         <ul>
           <li>Organized and scheduled volunteers and resources for a contest where people make tin foil hats which can block RFID detection and look aesthetically creative at the Ninth Hackers on Planet Earth (HOPE) conference</li>
           <li>Set up and organized a pbworks wiki for this and other Alpha One Labs projects</li>
