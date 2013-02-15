@@ -17,10 +17,10 @@
     <article id="verbageContainer" onload="setIosOverlay(this.id)">
       <div class="descriptionContainer">
         <h2>code and electronics</h2>
-        <h3><a href="http://www.davidhuerta.me/tumblrtimes/">The Tumblr Times (2012)</a></h3>
-        <p>A printable HTML5 newspaper featuring content aggregated from the Tumblr API. Created as my project for The New York Times's 2012 <a href="http://open.blogs.nytimes.com/timesopen-schedule/" target="_new">TimesOpen</a> Hack Day.</p>
-        <h3><a href="https://github.com/huertanix/pewpewping">Pew Pew Ping!</a></h3>
+        <h3><a href="https://github.com/huertanix/pewpewping">Pew Pew Ping! (2012)</a></h3>
         <p>An interactive art piece which sends a TCP packet burst to MPAA.org when you shoot it with Nerf guns, using an Arduino, Wifi shield and pressure sensor. Created for <a href="http://arthackday.net/gaffta/" target="_new">Art Hack Day San Francisco</a></p>
+        <h3><a href="http://www.davidhuerta.me/tumblrtimes/">The Tumblr Times (2012)</a></h3>
+        <p>A printable HTML5 newspaper featuring content aggregated from the Tumblr API. Created as my project for The New York Times's 2012 <a href="http://open.blogs.nytimes.com/timesopen-schedule/" target="_new">TimesOpen</a> Hack Day.</p> 
         <h3><a href="https://github.com/huertanix/txtvote">txtvote (2012)</a></h3>
         <p>Twilio-powered text message voting application built on Ruby on Rails designed for use with SMS shortcodes.</p>
         <h3><a href="https://github.com/huertanix/supervillmin">Supervillmin (2012)</a></h3>
