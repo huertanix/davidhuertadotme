@@ -1,8 +1,8 @@
 <footer>
   <div class="networksContainer">
     as seen on: 
-    <a href="http://twitter.com/huertanix">twitter</a> &bull; 
-    <a href="https://joindiaspora.com/people/36446">diaspora</a> &bull;
+    <a href="http://twitter.com/huertanix">twitter</a> &bull;
+    <a href="https://plus.google.com/104306218032212377514">google+</a> &bull;
     <a href="http://identi.ca/huertanix">identi.ca</a> &bull; 
     <a href="http://www.quora.com/David-Huerta">quora</a> &bull; 
     <a href="http://huertanix.tumblr.com/">tumblr</a> &bull; 

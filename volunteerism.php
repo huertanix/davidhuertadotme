@@ -2,7 +2,7 @@
 <html>
 <!--
   davidhuerta.me
-  volunteer slaving
+  volunteer hustling
   webmaster david{at}hayst.ac
   http://www.davidhuerta.me
   copyright (c) <?php echo date("Y"); ?> David Huerta. Distributed under the CDL license: http://supertunaman.com/cdl/
@@ -17,11 +17,12 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>volunteer experience</h2>
-        <!--<h3>Co-organzier, Cyrptoparty NYC; New York, New York (2012)</h3>
+        <h3>Co-organzier, Cyrpto Party NYC; New York, New York (2012 - Now)</h3>
         <ul>
-          <li>Searched and scheduled venue optimized for accessibility and availability</li>
+          <li>Searched and scheduled venues optimized for accessibility and availability</li>
+          <li>Found and coordinated speakers, sponsors, and volunteers</li>
           <li>Assisted non-engineers in the installation and configuration of cryptographic software</li>
-        </ul>-->
+        </ul>
         <h3>Organizer, Tin Foil Hat RFID Challenge / Fashion Show; New York, New York (2012)</h3>
         <ul>
           <li>Organized and scheduled volunteers and resources for a contest where people make tin foil hats which can block RFID detection and look aesthetically creative at the Ninth Hackers on Planet Earth (HOPE) conference</li>
