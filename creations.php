@@ -47,7 +47,7 @@
         <section class="imageContainer">
           <img src="images/trendy_arduino.jpg" alt="Trendy Arduino" onclick="TINY.box.show({image:'images/trendy_arduino_large.jpg',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
         </section>
-        <p>A thinner, trendier derivative design of Will Bradley's Tactical Arduino, a lanyard-wearable laser-cut acrylic Arduino case.</p>
+        <p>A thinner, trendier derivative design of <a href="https://twitter.com/willbradley" target="_new">Will Bradley</a>'s <a href="http://www.thingiverse.com/thing:27384" target="_new">Tactical Arduino</a>, a lanyard-wearable laser-cut acrylic Arduino case.</p>
         <h3>Deal With It Glasses (2012)</h3>
         <section class="imageContainer">
           <img src="images/deal_with_it.jpg" alt="Deal With It Glasses" onclick="TINY.box.show({image:'images/deal_with_it_large.jpg',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
