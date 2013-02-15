@@ -70,12 +70,12 @@
         <p>A laser-cut acrylic plaque designed as a special reward for a successful 
         <a href="http://www.kickstarter.com/projects/heatsynclabs/laser-cutter-for-phoenix-area-makers?ref=live"></a>Kickstarter campaign for a HeatSync Labs laser cutter.</p>
         <h3>HeatSync Labs Business Cards, Sticker, and Button (2010)</h3>
-        <p>Official HeatSync Labs swag designed entirely in free/open source software (The Gimp).</p>
         <section class="imageContainer">
           <!--<a href="http://www.flickr.com/photos/25968780@N03/5369349364/" target="_new">-->
           <img src="images/hsl_swag.jpg" alt="HeatSwag" onclick="TINY.box.show({image:'images/hsl_swag_large.jpg',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
           <!--</a>-->
         </section>
+        <p>Official HeatSync Labs swag designed entirely in free/open source software (The Gimp).</p>
         <h3>DigiDesert Logo (2010)</h3>
         <section class="imageContainer">
           <img src="images/digidesert_logo.png" alt="DigiDesert logo" onclick="TINY.box.show({image:'images/digidesert_logo_large.png',boxid:'frameless',animate:true,openjs:function(){openJS()}})" />
