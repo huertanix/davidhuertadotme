@@ -17,6 +17,17 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>speaking experience</h2>
+        <h3>Setting up a Tor Relay with GNU/Linux for Great Justice, Hack Miami Conference; Miami, Florida - (May 2013)</h3>
+        <p>Guided an audience on how to set up a Tor relay using Debian</p>
+        <ul>
+          <li><a href="presentations/tor_hackmiamicon.pdf">Slides (PDF)</a></li>
+          <li>Video (Coming Soon)</li>
+        </ul>
+        <h3>Mobile Web by Wednesday with Wink, Dev Stackup; New York, New York - (May 2013)</h3>
+        <p>Told the story of the <a href="http://gobrooklynart.org/">GO Brooklyn Art</a> mobile web application, built on FuelPHP and Wink</p>
+        <ul>
+          <li><a href="http://prezi.com/pqy7ga8aua7k/mobile-web-by-wednesday-with-wink/">Slides (Prezi)</a></li>
+        </ul>
         <h3>Fun with RFID and the Adafruit NFC Arduino Shield, Desert Code Camp; Chandler, Arizona - (Nov 2012)</h3>
         <p>Demonstrated impractical uses of RFID and NFC using the Adafruit NFC Arduino shield</p>
         <ul>
@@ -26,6 +37,7 @@
         <p>Presented on the process of acquiring and building a complete working application around an SMS shortcode</p>
         <ul>
           <li><a href="presentations/shortcodes_twiliocon.pdf">Slides (PDF)</a></li>
+          <li><a href="https://www.youtube.com/watch?v=MIz17iTnerg">Video</a></li>
         </ul>
         <h3>Art Hacks Everywhere, 28C3; Berlin, Germany - (Dec 2011)</h3>
         <p>Lightning talk on Art Hack Day and why it's totally rad</p>
