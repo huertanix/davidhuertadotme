@@ -8,7 +8,7 @@
     <a href="http://huertanix.tumblr.com/">tumblr</a> &bull; 
     <a href="http://news.ycombinator.com/threads?id=huertanix">hacker news</a> &bull; 
     <a href="https://github.com/huertanix">github</a> &bull; 
-    <a href="http://www.dopplr.com/traveller/huertanix">dopplr</a> &bull; 
+    <a href="http://instagram.com/huertanix">instagram</a> &bull; 
     <a href="http://www.flickr.com/people/25968780@N03/">flickr</a> &bull; 
     <a href="http://www.last.fm/user/huertanix">last.fm</a>
   </div>
