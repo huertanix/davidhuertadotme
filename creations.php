@@ -17,7 +17,7 @@
     <article id="verbageContainer" onload="setIosOverlay(this.id)">
       <div class="descriptionContainer">
         <h2>code and electronics</h2>
-        <h3><a href="https://play.google.com/store/apps/details?id=com.arthackday.killerapp">Twetr</a></h3>
+        <h3><a href="https://play.google.com/store/apps/details?id=com.arthackday.killerapp">Twetr (2013)</a></h3>
         <p>The official unofficial <a href="http://arthackday.net/god_mode/" target="_new">Art Hack Day NYC 2013</a> Android app created by Dan Moore, John Dahan, Pablo Neco and myself.</p>
         <h3><a href="https://github.com/huertanix/pewpewping">Pew Pew Ping! (2012)</a></h3>
         <p>An interactive art piece which sends a TCP packet burst to MPAA.org when you shoot it with Nerf guns, using an Arduino, Wifi shield and pressure sensor. Created for <a href="http://arthackday.net/gaffta/" target="_new">Art Hack Day San Francisco</a>.</p>
