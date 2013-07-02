@@ -30,7 +30,7 @@
       $isHooman = $sanitizedMeatPopsicle == $ROBOT_CHECK;
       $isNameValid = !empty($sanitizedName);
       $isMessageValid = !empty($sanitizedMessage);
-      $isEmailValid = preg_match('^([0-9a-z]+[-._+&])*[0-9a-z]+@([-0-9a-z]+[.])+[a-z]{2,6}$', $sanitizedEmail);
+      $isEmailValid = preg_match('/^([0-9a-z]+[-._+&])*[0-9a-z]+@([-0-9a-z]+[.])+[a-z]{2,6}$/i', $sanitizedEmail);
       
       if ($isHooman
         && $isNameValid
