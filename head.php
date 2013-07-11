@@ -8,3 +8,4 @@
   <link rel="StyleSheet" href="default.css" type="text/css" />
   <link rel="StyleSheet" href="overflow-touch.css" type="text/css" />
   <script type="text/javascript" src="overflow-touch.js"></script>
+  <script type="text/javascript" src="tinybox.js"></script>
