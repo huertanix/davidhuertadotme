@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/huertanix
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.davidhuerta.me
+  * I am huertanix (https://keybase.io/huertanix) on keybase.
+  * I have a public key with fingerprint 1482 F3BF 3F16 6BD4 3525  D55E 35D7 26BD AE09 F328
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1482f3bf3f166bd43525d55e35d726bdae09f328",
+            "host": "keybase.io",
+            "key_id": "35d726bdae09f328",
+            "uid": "0bcd0c83f60dc1c5f20d13f5baffc400",
+            "username": "huertanix"
+        },
+        "service": {
+            "hostname": "www.davidhuerta.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399350794,
+    "expire_in": 157680000,
+    "prev": "645fe0d429bffec5cb8e75610c9a730fde9d6017732d2e51ab7e2ee60c8d8740",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1.4.12 (GNU/Linux)
+
+owFtkV1IFFEYhvcnixUtvdgg/zlmWS4yP3tmdjbJAinpD8IsSJZ1Zs6ZdbBm1tnZ
+XXUTuwjRLDJwIwIpULxIEVKzKE3TRMpuKihSEVEKjKSgutAubMbsrnNzOO95vvc9
+3/naku0WmxV+2DPS5/iRb50eWxUsZVVSbgwIKqoD3hioxhubJCsBrAU1WdGBF5Bu
+DyXRgkRLJMMIyE1DCiIIMQ0RSxkCjwlOoikPcIEqNWRWGDYCH8KFsmpoxsEvI0P9
+Dx/euCAEERGih5YYAomkCCWKQCQtQYGXJNFNECYYwprCX8QGXRXGms4rci1ocAFD
+jsgiNh9tZm8i0Wi0EPERGf1lCw3RBYKaqquiesG00PWg1yzX64IbPBb8m05+QVaQ
+0b5REMFaSFYV4CUNUtRl05qkOY6GBMu5XQDXBmUN+2WTgCzjIYxlxuCIYcm4oYQJ
+5KY4QZKwCEXBg1nIkITI8SxNSAhziCFIlqUpRGFI8gKLKYwZ4x+Qh3WbPYdwjaIC
+r5Gk8wHDMiQHFF4Paxg0JLZYM7ZYrDbL1gSbOUFLoiPl31zzUretqw/tvz77YPts
+WkpO9ct4YPRWeVa0euX33VTns0sza8lzM09vPxg7V9x9sz8jvpRre9txuDDT4Z8c
+AhVfy0u8ZRWdi1n+cJZ1nFuI56wcXPdN7Tp1H8b21tgX+qd6mOx0saizvvK8bd6f
+c7rp9eDuI+/B/Fh+t9KVHuTPnDiWN3v0TklaKa/ZJu37vvlbBpWC/mLn4jVx7WzJ
+myeXl4aypxN6D5FlH3+OJuWtyaPrPV9e3WvdkTn7on0u7uq+0TbxKG2qcWB4/HpT
+62PnjG94onJ/Qcr3JGfpwAGhaPuVoa6+xsXlVU/qzqvLvXtGvB0Nz+uPi76lT9rJ
+dkfzu+bYHw==
+=b+9o
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/huertanix
+
+==================================================================
+
