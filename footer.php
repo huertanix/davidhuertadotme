@@ -1,16 +1,13 @@
 <footer>
   <div class="networksContainer">
     as seen on: 
-    <a href="http://twitter.com/huertanix">twitter</a> &bull;
+    <a href="https://keybase.io/huertanix">keybase</a> &bull;
+    <a href="https://twitter.com/huertanix">twitter</a> &bull;
     <a href="https://plus.google.com/104306218032212377514">google+</a> &bull;
-    <a href="http://identi.ca/huertanix">identi.ca</a> &bull; 
-    <a href="http://www.quora.com/David-Huerta">quora</a> &bull; 
+    <a href="https://www.quora.com/David-Huerta">quora</a> &bull; 
     <a href="http://huertanix.tumblr.com/">tumblr</a> &bull; 
-    <a href="http://news.ycombinator.com/threads?id=huertanix">hacker news</a> &bull; 
     <a href="https://github.com/huertanix">github</a> &bull; 
-    <a href="http://instagram.com/huertanix">instagram</a> &bull; 
-    <a href="http://www.flickr.com/people/25968780@N03/">flickr</a> &bull; 
-    <a href="http://www.last.fm/user/huertanix">last.fm</a>
+    <a href="https://instagram.com/huertanix">instagram</a> &bull; 
   </div>
 </footer>
 <br />

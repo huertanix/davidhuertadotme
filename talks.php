@@ -17,11 +17,15 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>speaking experience</h2>
+        <h3>Nothing to Hide? A Forum About Online Privacy; Brooklyn, New York - (Nov 2013)</h3>
+        <p>Discussed the state of privacy technology for various online communication needs</p>
+        <ul>
+          <li><a href="https://www.youtube.com/watch?v=ZPgmb2Az-Gg">Video</a></li>
+        </ul>
         <h3>Setting up a Tor Relay with GNU/Linux for Great Justice, Hack Miami Conference; Miami, Florida - (May 2013)</h3>
         <p>Guided an audience on how to set up a Tor relay using Debian</p>
         <ul>
           <li><a href="presentations/tor_hackmiamicon.pdf">Slides (PDF)</a></li>
-          <li>Video (Coming Soon)</li>
         </ul>
         <h3>Mobile Web by Wednesday with Wink, Dev Stackup; New York, New York - (May 2013)</h3>
         <p>Told the story of the <a href="http://gobrooklynart.org/">GO Brooklyn Art</a> mobile web application, built on FuelPHP and Wink</p>
