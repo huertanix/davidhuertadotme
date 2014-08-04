@@ -17,6 +17,12 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>volunteer experience</h2>
+        <h3>Code Maintainer, Dumbsto.re</h3>
+        <ul>
+          <li>Repaired and patched existing apps</li>
+          <li>Created and launched a staging environment to test new apps and code changes</li>
+          <li>Answered questions from developers and assisted them in debugging their apps</li>
+        </ul>
         <h3>Co-organzier, Cyrpto Party NYC; New York, New York (2012 - Now)</h3>
         <ul>
           <li>Searched and scheduled venues optimized for accessibility and availability</li>
