@@ -17,6 +17,11 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>speaking experience</h2>
+        <h3>Plexi.us: Ruby on the Raspberry Pi is easy but portable hardware is hard and so is industrial design (May 2014)</h3>
+        <p>Presented a gif-generating life-logging camera based on the Raspberry Pi and other open hardware</p>
+        <ul>
+          <li><a href="presentations/plexius_pivotal_labs.pdf">Slides (PDF)</a></li>
+        </ul>
         <h3>Nothing to Hide? A Forum About Online Privacy; Brooklyn, New York - (Nov 2013)</h3>
         <p>Discussed the state of privacy technology for various online communication needs</p>
         <ul>
