@@ -17,13 +17,16 @@
     <article id="verbageContainer" onload="setIosOverlay(this.id)">
       <div class="descriptionContainer">
         <h2>code and electronics</h2>
-        <h3>-----BEGIN PGP MIXTAPE-----</h3>
+        <h3><a href="http://www.theverge.com/2014/7/14/5898323/artist-david-huerta-mails-the-nsa-an-encrypted-mixtape">-----BEGIN PGP MIXTAPE-----</a></h3>
         <p>An art piece sent to the NSA with an encrypted audio track. Arduino + Wave shield sandwiched in laser-etched acrylic. AES-128/Whirlpool used for encrypting the SD Card.</p>
         
-        <h3>Plexi.us</h3>
+        <h3><a href="http://www.nycresistor.com/2014/05/07/emma-ohnoes/">Emma-Ohnoes</a></h3>
+        <p>An Arduino Yun-based 3D printed sculpture which pulses red when US-EAST-1 is having issues.</p>
+        
+        <h3><a href="https://github.com/huertanix/pewpewping">Plexi.us (2014)</a></h3>
         <p>An life-logging camera based on the Raspberry Pi and various other open hardware components. Used to generate lifegifs.</p>
         
-        <h3>Assorted Dumbsto.re apps (2014)</h3>
+        <h3><a href="http://www.dumbsto.re/apps">Assorted Dumbsto.re apps (2014)</a></h3>
         <ul>
           <li>Rick Roulette: Call the dumbstore, enter "rick" for the ID to have a 1 in 6 chance of getting rickrolled.</li>
           <li>Asciigram: A dumbphone alternative to Instagr.am, using original ascii art.</li>
