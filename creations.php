@@ -17,6 +17,18 @@
     <article id="verbageContainer" onload="setIosOverlay(this.id)">
       <div class="descriptionContainer">
         <h2>code and electronics</h2>
+        <h3>-----BEGIN PGP MIXTAPE-----</h3>
+        <p>An art piece sent to the NSA with an encrypted audio track. Arduino + Wave shield sandwiched in laser-etched acrylic. AES-128/Whirlpool used for encrypting the SD Card.</p>
+        
+        <h3>Plexi.us</h3>
+        <p>An life-logging camera based on the Raspberry Pi and various other open hardware components. Used to generate lifegifs.</p>
+        
+        <h3>Assorted Dumbsto.re apps (2014)</h3>
+        <ul>
+          <li>Rick Roulette: Call the dumbstore, enter "rick" for the ID to have a 1 in 6 chance of getting rickrolled.</li>
+          <li>Asciigram: A dumbphone alternative to Instagr.am, using original ascii art.</li>
+          <li>Dogecoin Prices: An app to fetch the exchange rate for Dogecoin against other major currencies.</li>
+        </ul>
         
         <h3><a href="https://play.google.com/store/apps/details?id=com.arthackday.killerapp">Twetr (2013)</a></h3>
         <p>The official unofficial <a href="http://arthackday.net/god_mode/" target="_new">Art Hack Day NYC 2013</a> Android app created by Dan Moore, John Dahan, Pablo Neco and myself.</p>
