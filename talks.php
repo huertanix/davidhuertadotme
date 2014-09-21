@@ -51,7 +51,7 @@
         <h3>Art Hacks Everywhere, 28C3; Berlin, Germany - (Dec 2011)</h3>
         <p>Lightning talk on Art Hack Day and why it's totally rad</p>
         <ul>
-          <li><a href="presentations/arthackseverywhere_28c3.pdf">Slides (PDF)</a></li>
+          <li><a href="presentations/art_hacks_everywhere_28c3.pdf">Slides (PDF)</a></li>
           <li><a href="http://www.youtube.com/watch?v=QCjFSDir6Xg">Video</a></li>
         </ul>
         <h3>Hacking Hardware: Fun with Twilio and Arduino, Twilio Conference; San Francisco, California - (Sep 2011)</h3>

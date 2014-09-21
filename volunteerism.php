@@ -17,7 +17,7 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>volunteer experience</h2>
-        <h3>Code Maintainer, Dumbsto.re</h3>
+        <h3>Code Maintainer, Dumbsto.re (2014 - Now)</h3>
         <ul>
           <li>Repaired and patched existing apps</li>
           <li>Created and launched a staging environment to test new apps and code changes</li>
