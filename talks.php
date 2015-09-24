@@ -17,12 +17,17 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>speaking experience</h2>
-        <h3>Plexi.us: Ruby on the Raspberry Pi is easy but portable hardware is hard and so is industrial design (May 2014)</h3>
+        <h3>Alice and Bob are Really Confused, DEF CON 23; Las Vegas, Nevada - (Aug 2015)</h3>
+        <p>Presented an overview of usability issues with privacy-enhacing software with the important bonus of adding design recommendations on how to fix them.</p>
+        <ul>
+          <li><a href="presentations/alice_and_bob_defcon23.pdf">Slides (PDF)</a></li>
+        </ul>
+        <h3>Plexi.us: Ruby on the Raspberry Pi is easy but portable hardware is hard and so is industrial design, Pivotal Labs; New York, New York - (May 2014)</h3>
         <p>Presented a gif-generating life-logging camera based on the Raspberry Pi and other open hardware</p>
         <ul>
           <li><a href="presentations/plexius_pivotal_labs.pdf">Slides (PDF)</a></li>
         </ul>
-        <h3>Nothing to Hide? A Forum About Online Privacy; Brooklyn, New York - (Nov 2013)</h3>
+        <h3>Nothing to Hide? A Forum About Online Privacy, Brooklyn Public Library; Brooklyn, New York - (Nov 2013)</h3>
         <p>Discussed the state of privacy technology for various online communication needs</p>
         <ul>
           <li><a href="https://www.youtube.com/watch?v=ZPgmb2Az-Gg">Video</a></li>

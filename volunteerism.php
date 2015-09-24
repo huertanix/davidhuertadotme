@@ -17,6 +17,12 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>volunteer experience</h2>
+        <h3>Director, NYC Resistor 2015 Interactive Show</h3>
+        <ul>
+          <li>Organized a team of volunteers to run an art show and fundraiser</li>
+          <li>Curated artist and worked with their needs to make the best of of their placement</li>
+          <li>Coordinated press coverage with local blogs and social media campaigns on Twitter and Facebook</li>
+        </ul>
         <h3>Code Maintainer, Dumbsto.re (2014 - Now)</h3>
         <ul>
           <li>Repaired and patched existing apps</li>

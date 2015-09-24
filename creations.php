@@ -74,6 +74,15 @@
       
         <h2>art and design</h2>
         
+        <h3>Tails Surveillance Sanitizer (2015)</h3>
+        <section class="imageContainer">
+          <img src="images/surveillance_sanitizer.jpg" alt="Magic Pretzel Sticks" onclick="TINY.box.show({image:'images/surveillance_sanitizer_large.jpg',boxid:'frameless',animate:true})" />
+        </section>
+        <p>Custom-created USB drives pre-loaded with <a href="https://tails.boum.org" target="_new">Tails</a>, the Tor-powered live 
+          Linux distriution designed to run on a CD or USB drive. Each is made to match the "branding" of the Tails and 
+          Tor projects on top of the general form of drug store hand sanitizer. Nonstandard components can be 3D-printed
+          using the model and instructions <a href="http://www.thingiverse.com/thing:1013837" target="_new">on Thingiverse.</a></p>
+
         <h3>Magic Pretzel Stick Forest (2013)</h3>
         <section class="imageContainer">
           <img src="images/magic_pretzel_sticks.jpg" alt="Magic Pretzel Sticks" onclick="TINY.box.show({image:'images/magic_pretzel_sticks_large.jpg',boxid:'frameless',animate:true})" />
