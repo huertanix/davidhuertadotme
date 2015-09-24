@@ -7,7 +7,7 @@
     <a href="https://plus.google.com/104306218032212377514">google+</a> &bull;
     <a href="https://www.quora.com/David-Huerta">quora</a> &bull;
     <a href="https://github.com/huertanix">github</a> &bull;
-    <a href="https://www.thingiverse.com/huertanix/designs"></a> &bull;
+    <a href="https://www.thingiverse.com/huertanix/designs">thingiverse</a> &bull;
     <a href="https://instagram.com/huertanix">instagram</a>
   </div>
 </footer>
