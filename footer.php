@@ -1,13 +1,14 @@
 <footer>
   <div class="networksContainer">
-    as seen on: 
+    as seen on:
+    <a href="https://medium.com/@huertanix">medium</a> &bull;
     <a href="https://keybase.io/huertanix">keybase</a> &bull;
     <a href="https://twitter.com/huertanix">twitter</a> &bull;
     <a href="https://plus.google.com/104306218032212377514">google+</a> &bull;
-    <a href="https://www.quora.com/David-Huerta">quora</a> &bull; 
-    <a href="http://huertanix.tumblr.com/">tumblr</a> &bull; 
-    <a href="https://github.com/huertanix">github</a> &bull; 
-    <a href="https://instagram.com/huertanix">instagram</a> 
+    <a href="https://www.quora.com/David-Huerta">quora</a> &bull;
+    <a href="https://github.com/huertanix">github</a> &bull;
+    <a href="https://www.thingiverse.com/huertanix/designs"></a> &bull;
+    <a href="https://instagram.com/huertanix">instagram</a>
   </div>
 </footer>
 <br />
