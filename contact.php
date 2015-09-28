@@ -17,7 +17,7 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>contact david</h2>
-        <p>Looking for a speaker to discuss search privacy/hacker spaces/tumblr memes at your next conference, camp, or wedding?  Are you working on something really cool and want my involvement somehow?  Contact me with the form below:</p>
+        <p>Looking for a speaker to discuss search privacy/hacker spaces/tumblr memes at your next conference, camp, or wedding?  Are you working on something really cool and want my involvement somehow? As long as it's not, in any way, shape or form, related to Wordpress, contact me with the form below:</p>
         <form id="frmContactDavid" method="post" action="dhmailer.php">
           <label for="contactName">Name</label>
           <br />
