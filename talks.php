@@ -17,8 +17,14 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>speaking experience</h2>
+        <h3>I Will Follow You Into the Darknet, Radical Networks; Brooklyn, New York - (Oct 2015)</h3>
+        <p>Co-presented with Caroline Sinders and Stephanie Hyland on the subjects of online harassment, doxing, pseudonymity, Tor, and ultimately the darknet and how to manage a pseudonymous identity with it.</p>
+        <ul>
+          <li><a href="https://docs.google.com/presentation/d/1A-0bggHr8fk0_UJhm251-GfyYShU0II3KNRDt9-uzjU/edit?usp=sharing">Slides (Google Drive)</a></li>
+          <li><a href="http://livestream.com/internetsociety/radicalnetworks/videos/102829121">Video</a></li>
+        </ul>
         <h3>Alice and Bob are Really Confused, DEF CON 23; Las Vegas, Nevada - (Aug 2015)</h3>
-        <p>Presented an overview of usability issues with privacy-enhacing software with the important bonus of adding design recommendations on how to fix them.</p>
+        <p>Presented an overview of usability issues with privacy-enhancing software with the important bonus of adding design recommendations on how to fix them</p>
         <ul>
           <li><a href="presentations/alice_and_bob_defcon23.pdf">Slides (PDF)</a></li>
         </ul>

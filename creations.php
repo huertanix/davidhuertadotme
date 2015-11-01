@@ -33,6 +33,9 @@
           <li>Dogecoin Prices: An app to fetch the exchange rate for Dogecoin against other major currencies.</li>
         </ul>
         
+        <h3><a href="https://github.com/jedahan/ghostery-replay">Ghostery Replay / Zombery</a></h3>
+        <p>A collaborative data visualization with Jon Dahan and Blacki Migliozzi which visualized and sonified ad trackers blocked by <a href="https://www.ghostery.com/" target="_new">Ghostery</a>. Created for the Hack the Trackers hackathon.</p>
+        
         <h3><a href="https://play.google.com/store/apps/details?id=com.arthackday.killerapp">Twetr (2013)</a></h3>
         <p>The official unofficial <a href="http://arthackday.net/god_mode/" target="_new">Art Hack Day NYC 2013</a> Android app created by Dan Moore, John Dahan, Pablo Neco and myself.</p>
         

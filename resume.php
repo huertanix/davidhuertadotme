@@ -17,17 +17,23 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>work experience</h2>
+        <h3>DBRS Innovation Labs</h3>
+        <ul>
+          <li>Created a single-page responsive site for the lab showcasing its team and its visualization work</li>
+          <li>Developed JavaScript-based JSON data generators for creating mock financial data to use in testing data visualizations</li>
+          <li>Set up a robust server architecture optimized for spikes in high volume traffic (mitigating virality) using NGINX on an AWS EC2 instance</li>
+        </ul>
         <h3>Developer, Brooklyn Museum; Brooklyn, New York (2011-2015)</h3>
         <ul>
-          <li>Coordinated and coded for a partial backend migration of the museum website from a mostly broken XML-based PHP CMS system into ExpressionEngine for its extensibility and solid security track record.</li>
-          <li>Responded and performed forensics operations in site breaches by scriptkiddies who were using Wordpress rootkits to attack our mostly broken XML-based PHP CMS system.</li>
-          <li>Hired and organized a team of developers to build an interactive messaging system consisting of a native iPhone app in Objective-C/Cocoa, REST API in Slim PHP, and web-based staff dashboard written mostly in Angular with a minimal PHP foundation.</li>
-          <li>Designed and architected an intranet web login system using combinations of photos that would be "stickier" in human memory than traditional PIN numbers or passwords.</li>
-          <li>Created a system for tracking check-ins to artist studios using FuelPHP and Twilio using an SMS shortcode which followed industry standard interaction and acount security practices.</li>
+          <li>Coordinated and coded for a partial backend migration of the museum website from a mostly broken XML-based PHP CMS system into ExpressionEngine for its extensibility and solid security track record</li>
+          <li>Responded and performed forensics operations in site breaches by scriptkiddies who were using Wordpress rootkits to attack our mostly broken XML-based PHP CMS system</li>
+          <li>Hired and organized a team of developers to build an interactive messaging system consisting of a native iPhone app in Objective-C/Cocoa, REST API in Slim PHP, and web-based staff dashboard written mostly in Angular with a minimal PHP foundation</li>
+          <li>Designed and architected an intranet web login system using combinations of photos that would be "stickier" in human memory than traditional PIN numbers or passwords</li>
+          <li>Created a system for tracking check-ins to artist studios using FuelPHP and Twilio using an SMS shortcode which followed industry standard interaction and acount security practices</li>
           <li>Collaborated in the development of <a href="http://gobrooklynart.org">gobrooklynart.org</a> as a FuelPHP application</li>
           <li>Created a system to calculate the scale of artwork in the museum's online art collection and illustrate it using Brooklyn-centric elements to compare size to</li>
           <li>Modernized brooklynmuseum.org's homepage to display events, news, and information in a compelling and intuitive design using Mootools and modern, cross-browser CSS</li>
-          <li>Developed web-based kiosk applications for browsing data for Judy Chicago's <i>The Dinner Party</i>, the centerpiece of the Elizabeth A. Sackler Center for Feminist Art, searching for art information in the LUCE center for American art, as well as a user friendly application to sign up for museum news.</li>
+          <li>Developed web-based kiosk applications for browsing data for Judy Chicago's <i>The Dinner Party</i>, the centerpiece of the Elizabeth A. Sackler Center for Feminist Art, searching for art information in the LUCE center for American art, as well as a user friendly application to sign up for museum news</li>
           <li>Developed a PHP-based web application for aggregating and displaying data relating to a Lee Mingwei art exhibition using APIs from Flickr, Instagram, Twitter Search, and Twilio with internal moderation support</li>
           <li>Adjusted, tested, and shipped a native iPhone application to Apple and audited for Apple HIG compliance while optimizing our compatibility for iPad and Verizon iPhone users</li>
           <li>Created a replication script in Ruby to sync the video content of separate Youtube account, including a script for automating the process of enabling oauth access from one account to the other</li>
