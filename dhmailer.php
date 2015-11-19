@@ -20,7 +20,7 @@
     && isset($_POST['txtContactMeatPopsicle'])) {
       // These be CONSTANT
       $ROBOT_CHECK = 'I am a meat popsicle';
-      $TO_ADDRESS = 'huertanix' . '@opentil.com';      
+      $TO_ADDRESS = 'huertanix' . '@nycresistor.com';      
       // No need to escape for bobby tables, but we do need to think of the newlines
       $sanitizedName = stripslashes(trim(htmlentities($_POST['txtContactName'])));
       $sanitizedEmail = trim(htmlentities($_POST['txtContactEmail']));
