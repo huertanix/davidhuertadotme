@@ -3,7 +3,7 @@
 <!--
   davidhuerta.me
   resume
-  webmaster david{at}hayst.ac
+  webmaster david{at}huerta.solutions
   http://www.davidhuerta.me
   copyright (c) <?php echo date("Y"); ?> David Huerta. Distributed under the CDL license: http://supertunaman.com/cdl/
 -->
@@ -17,11 +17,19 @@
     <article id="verbageContainer">
       <div class="descriptionContainer">
         <h2>work experience</h2>
-        <h3>DBRS Innovation Labs</h3>
+        <h3>Digital Security Trainer, Freedom of the Press Foundation (2017-Now)</h3>
+        <ul>
+          <li>Led and participating in digital security sessions for over two thousand investigative journalists, documentary filmmakers and more.</li>
+          <li>Coordinated with open source project developers on iterative design processes to help make the software we train journalists on easier for them to use.</li>
+          <li>Wrote accessibly-written guides and articles on digital security tools, practices and related topics.</li>
+        </ul>
+        <h3>Full-stack Developer, Undisclosed AI Lab; New York, New York (2015-2016)</h3>
         <ul>
           <li>Created a single-page responsive site for the lab showcasing its team and its visualization work</li>
           <li>Developed JavaScript-based JSON data generators for creating mock financial data to use in testing data visualizations</li>
           <li>Set up a robust server architecture optimized for spikes in high volume traffic (mitigating virality) using NGINX on an AWS EC2 instance</li>
+          <li>Visualized twenty years of historical financial publications, memos, newsletters and more into categories determined via machine learning with doc2vec.</li>
+          <li>Partnered with a major UK newspaper to visualize a quarter century of publsished articles into 3D space with doc2vec.</li>
         </ul>
         <h3>Developer, Brooklyn Museum; Brooklyn, New York (2011-2015)</h3>
         <ul>

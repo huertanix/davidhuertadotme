@@ -3,7 +3,7 @@
 <!--
   davidhuerta.me
   but i don't wanna be a statue!
-  webmaster david{at}hayst.ac
+  webmaster david{at}huerta.solutions
   http://www.davidhuerta.me
   copyright (c) <?php echo date("Y"); ?> David Huerta. Distributed under the CDL license: http://supertunaman.com/cdl/
 -->
@@ -17,6 +17,31 @@
     <article id="verbageContainer" onload="setIosOverlay(this.id)">
       <div class="descriptionContainer">
         <h2>code and electronics</h2>
+        
+        <h3><a href="https://github.com/huertanix/pi2pi">pi2pi (2019)</a></h3>
+        <p>Created a self-contained network composed of two Raspberry Pi computers which send each other a set of photos repeatedly in perpetuity. Created for Eva and Franco Mattes's Personal Photographs, September 2009, displayed at Team Gallery in Los Angeles in 2019.</p>
+
+        <h3>-----BEGIN PGP MIXTAPE----- B-sides 2014-2019 (2019)</h3>
+        <p>A sequel to BEGIN PGP MIXTAPE, which was a soundtrack to the surveillence state from 9/11 to the Snowden revelations.
+        This one was designed as a soundtrack for the age of suveillence capitalism post-Snowden. Created for Maker Made 2019 in Boulder, Colorado.</p>
+
+        <h3>Sophon (2018)</h3>
+        <p>An early warning system for doxing designed as a "Google Alert for worst case scenarios." Scraped 8chan's /pol forum into a private archive and provided email or text alerts based on any given search terms within a half hour of being posted. 8chan shuttered and sophon was given an early retirement. It now exists as an invite-only archive.</p>
+
+        <h3>Baculus Wayfinder App (2018)</h3>
+        <p>Customized MVD Scuttlebutt web client styling to match existing Baculus branding and added geolocating features 
+        to cover disaster recovery use cases. Adapted codebase to work in an offline-first mesh network without the need for 
+        internet dependency.</p>
+
+        <h3>Untitled Newspaper Articles Visualization</h3>
+        <p>A galaxy-like web-based interactive 3D visualization of all published articles from a major UK newspaper for a quarter century, automatically sorted by machine learning. Included interactions for navigation and filtering by category color (our algorithm didn't name the categories).</p>
+
+        <h3>Untitled Financial Documents Visualization</h3>
+        <p>An simple one-page proof-of-concept web application which visualzied the output of doc2vec machine learning applied to financial documents. It placed each discovered category into a color-coded section with links to the original in an internal document archive.</p>
+
+        <h3>Untitled CLO Risk Visualization (2015)</h3>
+        <p>An experimental static visualiztion of CLO risk, which utilized simiulation data from a Monte Carlo scenario across time to show how overally "risky" its investment could be, using only HTML, CSS and vanilla JS. Designed for an undisclosed AI lab and never launched.</p>
+
         <h3><a href="http://www.theverge.com/2014/7/14/5898323/artist-david-huerta-mails-the-nsa-an-encrypted-mixtape">-----BEGIN PGP MIXTAPE----- (2014)</a></h3>
         <p>An art piece sent to the NSA with an encrypted audio track. Arduino + Wave shield sandwiched in laser-etched acrylic. AES-128/Whirlpool used for encrypting the SD Card.</p>
         
