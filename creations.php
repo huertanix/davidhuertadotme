@@ -33,10 +33,10 @@
         to cover disaster recovery use cases. Adapted codebase to work in an offline-first mesh network without the need for 
         internet dependency.</p>
 
-        <h3>Untitled Newspaper Articles Visualization</h3>
-        <p>A galaxy-like web-based interactive 3D visualization of all published articles from a major UK newspaper for a quarter century, automatically sorted by machine learning. Included interactions for navigation and filtering by category color (our algorithm didn't name the categories).</p>
+        <h3>Untitled Newspaper Articles Visualization (front-end interaction and user testing) (2016)</h3>
+        <p>A galaxy-like web-based interactive 3D visualization of 20,000+ articles from a major UK newspaper for a quarter century, automatically sorted into 3D clusters with machine learning. Included interactions for navigation and filtering by category color (our teams's algorithm choice didn't name the categories).</p>
 
-        <h3>Untitled Financial Documents Visualization</h3>
+        <h3>Untitled Financial Documents Visualization (2016)</h3>
         <p>An simple one-page proof-of-concept web application which visualzied the output of doc2vec machine learning applied to financial documents. It placed each discovered category into a color-coded section with links to the original in an internal document archive.</p>
 
         <h3>Untitled CLO Risk Visualization (2015)</h3>
